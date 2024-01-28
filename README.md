@@ -1,5 +1,7 @@
 # Six-Axis Arm Control Dashboard
+# My Project
 
+![Project Logo](https://example.com/project_logo.png)
 ## Abstract
 
 Controlling a six-axis arm efficiently requires seamless synchronization between real-time feedback and simulation. Our developed dashboard, crafted using Qt C and QML, empowers users to manipulate the movements of a six-axis arm effortlessly. With real-time feedback displayed on the dashboard, users can visualize and fine-tune the arm's actions, enhancing precision and control.
