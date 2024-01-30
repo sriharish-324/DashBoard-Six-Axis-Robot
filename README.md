@@ -1,6 +1,6 @@
 # Six-Axis Arm Control Dashboard
 # ControlPannel
-![Project Images](https://github.com/sriharish-324/DashBoard-Six-Axis-Robot/blob/main/images/Screenshot%20(297).png)
+![Project Images](https://github.com/sriharish-324/DashBoard-Six-Axis-Robot/blob/main/images/sync%26simul.jpg)
 # TeachPannel
 ![TeachPannel](https://github.com/sriharish-324/DashBoard-Six-Axis-Robot/blob/main/images/Screenshot%20(298).png)
 ## Abstract
